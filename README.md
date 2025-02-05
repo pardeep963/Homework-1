@@ -4,3 +4,23 @@ My name is pardeep Singh. I came from Punjab, India.
 My hobbies are playing basketball, listen music.
 I like to use some applications like youtube for discover something new.
 I can do photo editing, work on time and solve puzzles.
+
+# Ronaldo
+## Sportsman
+### Football player
+
+*India* or _India_
+
+**Canada** or __Canada__
+
+***India and Canada***
+
+Unordered Lists:
+- London
+- Ontario
+  - Edmonton
+  - Alberta
+
+Ordered Lists:
+1. Basketball
+2. Football
