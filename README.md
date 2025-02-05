@@ -28,3 +28,4 @@ Ordered Lists:
 Links: [Rohit Sharma] (https://en.wikipedia.org/wiki/Rohit_Sharma)
 
 Image:1 ![Sidhu Moosewala] (image)["C:\Users\parde\OneDrive\Pictures\IMG_2749(1).JPG"]
+![alt text](IMG_2749(1).JPG)
